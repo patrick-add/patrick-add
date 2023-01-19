@@ -17,3 +17,9 @@ Me chamo Patrick Andrade e esse é o meu portfólio de projetos que venho desenv
 ![PostgreSql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+<div align="center">
+  <a href="https://www.linkedin.com/in/patrick-add/">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-add&layout=compact&langs_count=7&theme=merko"/>
+</div>
