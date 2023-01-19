@@ -18,6 +18,7 @@ Me chamo Patrick Andrade e esse é o meu portfólio de projetos que venho desenv
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+> "O conhecimento é algo que ninguém tira de você."
 ---
 <div align="center">
   <a href="https://www.linkedin.com/in/patrick-add/">
